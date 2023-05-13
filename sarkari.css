@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 200px;
+}
+.com{
+    margin-top: 50px;
+    font-size: 70px;
+}
+.update{
+    color: rgb(226, 223, 223);
+    font-size: 20px;
+    font-style: italic;
+}
+
+.jobs{
+    margin-top: 0px;
+    height: 50px;
+    width: 100%;
+}
+.show{
+    /* border: 1px solid black; */
+    height: 50px;
+}
+.sss{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.sss .ccc{
+    list-style: none;
+   
+}
+.sss .ccc .ddd{
+    text-decoration: none;
+    color: rgb(251, 253, 250);
+}
+
+.biodata{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    
+}
+.data .shadi{
+    width: 100%;
+    display: flex;
+}
+.shadi .maker{
+    list-style: none;
+    padding-left: 30px;
+}
+.shadi .maker .shid{
+    color: black;
+    font-size: 25px;
+    
+}
+.marqe{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    
+}
+.marqe .mara p{
+    color: blue;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+
+
+.online{
+    width: 100%;
+    height: 80px;
+    
+}
+.bihar{
+    display: flex;
+}
+.bihar .police{
+    width: 25%;
+    height: 80px;
+    
+
+}
+
+.police h4{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+/* section-new-start */
+.admit{
+    width: 100%;
+    height: 800px;
+    
+    margin-top: 100px;
+}
+.admit .admited{
+    /* width: 100%; */
+    height: 800px;
+  justify-content: space-between;
+}
+.admited .onform12{
+    width: 30%;
+    height: 800px;
+    border: 1px solid rgb(19, 80, 234);
+   
+}
+.onform12 h2{
+    text-align: center;
+    /* border: 1px solid black; */
+    margin-left: -13px;
+    margin-right: -13px;
+    background-color: rgb(23, 121, 233);
+    color: white;
+}
+.onform12 ul{
+
+padding-left: 10px;
+}
+.onform12 ul li{
+    padding-top: 15px;
+    list-style: none;
+
+}
+.onform12 ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.onform12 ul li a:hover{
+    color: blue;
+}
+.onform12 .btn{
+    background-color: rgb(245, 17, 104);
+    color: white;
+    padding-right: 5px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+/* diploma-start */
+.diploma1{
+    width: 100%;
+    height: 850px;
+    /* border: 1px solid black; */
+margin-top: 20px;
+}
+.diploma1 .diploma2{
+    height: 850px;
+    /* border: 1px solid black; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.diploma2 .diploma3{
+    width: 30%;
+    height: 850px;
+    border: 1px solid rgb(49, 157, 234);
+    margin-left: 20px;
+}
+.diploma3 h2{
+    font-size: 32px;
+    margin-left: -13px;
+    margin-right: -13px;
+    background-color: rgb(23, 121, 233);
+    color: white;
+}
+.diploma3 ul{
+    padding-left: 10px;
+}
+.diploma3 ul li{
+    list-style: none;
+    padding-top: 15px;
+}
+.diploma3 ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.diploma3 ul li a:hover{
+color: blue;
+}
+.diploma3 .btnn{
+    background-color: rgb(245, 17, 104);
+    color: white;
+    padding-right: 5px;
+    margin-left: 70px;
+    margin-top: 10px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+.information{
+    width: 100%;
+    height: 2550px;
+    border: 1px solid rgb(181, 179, 179);
+   margin-top: 80px;
+}
+.information .infor{
+    height: 2550px;
+    border: 1px solid rgb(173, 172, 172);
+}
+.infor h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+}
+.infor h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+.infor p{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 14px;
+}
+.infor h6{
+    font-weight: bold;
+}
+.jobfind1{
+    width: 100%;
+    height: 370px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.jobfind1 .discover{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.jobfind1 h5 a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.paki{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+.youtube{
+    background-color: bisque;
+    height: 50px;
+    width: 100%;
+}
+.youtube2 center{
+    margin-top: 10px;
+}
+.youtube2 a{
+    text-decoration: none;
+}
+.youtube2 a:hover{
+    color: blue;
+}
+.copyright{
+    width: 100%;
+    height: 70px;
+   
+    background-color: rgb(30, 135, 241);
+}
+.copyright .copy1{
+    width: 100%;
+    height: 70px;
+}
+.copy2 h4{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+    color: white;
+}
+.copy2 a{
+    color: white;
+    text-decoration: none;
+}
+.copy2 a:hover{
+    color: blue;
+}
